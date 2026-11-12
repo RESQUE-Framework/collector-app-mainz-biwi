@@ -9,22 +9,22 @@
 # Styling
 
 # Title of the app (shown on top left)
-main_title: "RESQUE"
+main_title: "RESQUE Uni Mainz"
 
 # Background color of the app
-background_color: "#ffffff"
+background_color: "#f4dee0"
 
 # Should the scoring box on the top right be hidden? 
 hide_score: false
 
 # Show the welcome message (text is defined in config/instructions.md)
-show_instruction: false
+show_instruction: true
 
 # Show the beta warning message
-show_beta_warning: true
+show_beta_warning: false
 
 # Add a logo to the top left (next to the title) and to the welcome message (if show_instruction is true)
-image_url: https://upload.wikimedia.org/wikipedia/commons/0/06/LMU_Muenchen_Logo.svg
+image_url: https://www.logosvgpng.com/wp-content/uploads/2021/08/johannes-gutenberg-university-mainz-jgu-logo-vector.png
 
 
 
@@ -32,7 +32,7 @@ image_url: https://upload.wikimedia.org/wikipedia/commons/0/06/LMU_Muenchen_Logo
 # Committee settings
 
 # Should these committee limits even be used? (Relevant for data export)
-committee_limits: false
+committee_limits: true
 
 # Minimum number of papers that are expected by the committee
 min: 5
@@ -62,15 +62,15 @@ min_RO_warning_threshold: 0
 
 # which packs should be included?
 meta:
-  sources: ["packs/core-meta.json"]
-  exclude: []
+  sources: ["packs/core-meta.json", "packs/user.json"]
+  exclude: ["RaterType", "DateCreated", "LastChange", "METASEP1"]
   config:
     min_indicators_warning_threshold: 0
 
 pub:
   active: true
   sources: ["packs/core-pub.json"]
-  exclude: []
+  exclude: ["P_Stimuli", "P_ImpactStatement_Info", "P_ImpactStatement", "P_Sample_RepresentativenessRelevance", "P_Sample_Representative", "P_Sample_Representative_Details", "P_IndependentVerification", "P19P20SEP", "sep_before_correctness", "stimsep", "P_Sample_CoG", "P_Sample_CrossCultural]
   config:
     min_indicators_warning_threshold: 0
     # Define the scoring categories
