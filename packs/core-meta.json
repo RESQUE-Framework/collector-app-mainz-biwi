@@ -61,7 +61,8 @@
                     "text": "I am an external rater"
                 }
             ],
-            "default": "Applicant"
+            "default": "Applicant",
+            "condition": "false"
         },
         {
             "id": "ExternalRaterName",
