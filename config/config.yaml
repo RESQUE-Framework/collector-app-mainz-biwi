@@ -70,7 +70,7 @@ meta:
 pub:
   active: true
   sources: ["packs/core-pub.json"]
-  exclude: ["P_Stimuli", "P_ImpactStatement_Info", "P_ImpactStatement", "P_Sample_RepresentativenessRelevance", "P_Sample_Representative", "P_Sample_Representative_Details", "P_IndependentVerification", "P19P20SEP", "sep_before_correctness", "stimsep", "P_Sample_CoG", "P_Sample_CrossCultural]
+  exclude: ["P_Stimuli", "P_ImpactStatement_Info", "P_ImpactStatement", "P_Sample_RepresentativenessRelevance", "P_Sample_Representative", "P_Sample_Representative_Details", "P_IndependentVerification", "P19P20SEP", "sep_before_correctness", "stimsep", "P_Sample_CoG", "P_Sample_CrossCultural"]
   config:
     min_indicators_warning_threshold: 0
     # Define the scoring categories
