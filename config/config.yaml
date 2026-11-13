@@ -12,7 +12,7 @@
 main_title: "RESQUE JGU Mainz"
 
 # Background color of the app
-background_color: "#63666A"
+background_color: "#ac323b"
 
 # Should the scoring box on the top right be hidden? 
 hide_score: false
