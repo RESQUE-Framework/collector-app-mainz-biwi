@@ -10,6 +10,6 @@ für die Bewerbung auf die W2-Professur „Psychologie in den Bildungswissenscha
 
 **Hinweis zum Datenschutz:** Die App läuft lokal im Browser auf Ihrem Rechner (auch offline), und Ihre Profildaten werden nur in Ihrem Browser gespeichert. Wenn Sie DOIs Ihrer Publikationen eingeben, werden diese an doi.org übermittelt, um Metadaten wie Titel, Jahr und Abstract abzurufen. Weitere Details finden Sie in der <a href="#" onclick="showPrivacyModal(); return false;">Datenschutzerklärung</a>.
 
-Bei Fragen oder Problemen mit der RESQUE-App wenden Sie sich bitte an Prof. Dr. Anna-Lena Schubert ([anna-lena.schubert@uni-mainz.de](mailto:anna-lena.schubert@uni-mainz.de)).
+Bei Fragen oder Problemen mit der RESQUE-App wenden Sie sich bitte an Prof. Dr. Anna-Lena Schubert (<a href="mailto:anna-lena.schubert@uni-mainz.de">anna-lena.schubert@uni-mainz.de</a>).
 
 Auf der nächsten Seite erfahren Sie, wie Sie die App benutzen.
