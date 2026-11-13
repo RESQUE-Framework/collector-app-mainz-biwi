@@ -9,10 +9,10 @@
 # Styling
 
 # Title of the app (shown on top left)
-main_title: "RESQUE Uni Mainz"
+main_title: "RESQUE JGU Mainz"
 
 # Background color of the app
-background_color: "#f4dee0"
+background_color: "#63666A"
 
 # Should the scoring box on the top right be hidden? 
 hide_score: false
