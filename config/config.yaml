@@ -12,7 +12,7 @@
 main_title: "RESQUE JGU Mainz - Psychologie in den Bildungswissenschaften"
 
 # Background color of the app
-background_color: "#ac323b"
+background_color: "#FFFFFF"
 
 # Should the scoring box on the top right be hidden? 
 hide_score: false
